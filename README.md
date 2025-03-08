@@ -8,7 +8,7 @@ Designed responsive templates with HTML, CSS, and Bootstrap for enhanced usabili
 Integrated media uploads, payment gateway, and shipment tracking via APIs
 
 ## Features Included :
-Custom Admin dashboard
+Custom Admin dashboard 
 Search Functionality
 Shopping Cart
 Order Management
