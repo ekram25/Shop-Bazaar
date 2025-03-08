@@ -51,5 +51,5 @@ python manage.py runserver
 
 https://github.com/user-attachments/assets/aa1bf245-f46a-45fe-a455-23c7ca59f493
 
-t http://127.0.0.1:8000 
+ Hosted on Local Host : http://127.0.0.1:8000 
 
