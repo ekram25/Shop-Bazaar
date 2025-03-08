@@ -20,7 +20,7 @@ Integrated media uploads, payment gateway, and shipment tracking via APIs
 
 ## Installation
 
-### * clone Repository & Install Packages
+### * Clone Repository & Install Packages
 
 pip install -r requirements.txt
 
