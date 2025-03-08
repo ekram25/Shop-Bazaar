@@ -1,4 +1,4 @@
-## Django E-commerce [Shop-Bazaar]
+# Django E-commerce [Shop-Bazaar]
 Django-ecommerce is an open-source ecommerce platform built on the Django Web Framework.
 
 Features Included :
@@ -12,16 +12,18 @@ Much more...
 
 
 
-# Installation
+## Installation
 
-1.clone Repository & Install Packages
+### 1.clone Repository & Install Packages
+
 pip install -r requirements.txt
 
-2.Setup Virtualenv
+### 2.Setup Virtualenv
 
 virtualenv env
 source env/bin/activate
-3.Migrate & Start Server
+
+### 3.Migrate & Start Server
 
 python manage.py makemigrations
 python manage.py migrate
