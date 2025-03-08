@@ -18,27 +18,18 @@ Integrated media uploads, payment gateway, and shipment tracking via APIs
 * Much more...
 
 
-
-
-
-
-
-
-
-
-
 ## Installation
 
-### 1.clone Repository & Install Packages
+### * clone Repository & Install Packages
 
 pip install -r requirements.txt
 
-### 2.Setup Virtualenv
+### * Setup Virtualenv
 
 virtualenv env
 source env/bin/activate
 
-### 3.Migrate & Start Server
+### * Migrate & Start Server
 
 python manage.py makemigrations
 
