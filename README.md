@@ -16,7 +16,7 @@ Much more...
 
 1.clone Repository & Install Packages
 
-git clone https://github.com/shyam999/Django-ecommerce.git
+
 pip install -r requirements.txt
 2.Setup Virtualenv
 
