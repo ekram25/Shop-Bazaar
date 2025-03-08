@@ -8,15 +8,22 @@ Designed responsive templates with HTML, CSS, and Bootstrap for enhanced usabili
 Integrated media uploads, payment gateway, and shipment tracking via APIs
 
 ## Features Included :
-* Cisco Packet Tracer
-* Firewalls
-Custom Admin dashboard 
-Search Functionality
-Shopping Cart
-Order Management
-Payments Using Paypal & other
-Responsive, mobile-friendly design
-Much more...
+* Custom Admin dashboard
+* Search Functionality
+* Shopping Cart
+* Order Management
+* Payments Using Paypal & other
+* Responsive, mobile-friendly design
+* Custom Admin dashboard
+* Much more...
+
+
+
+
+
+
+
+
 
 
 
