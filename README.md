@@ -31,3 +31,6 @@ python manage.py migrate
 
 python manage.py runserver
 
+
+# Hosted on Local Host at http://127.0.0.1:8000 
+
