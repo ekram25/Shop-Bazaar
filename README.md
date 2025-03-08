@@ -26,5 +26,8 @@ source env/bin/activate
 ### 3.Migrate & Start Server
 
 python manage.py makemigrations
+
 python manage.py migrate
+
 python manage.py runserver
+
